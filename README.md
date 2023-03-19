@@ -11,7 +11,7 @@ Andreev Nikita\
 Begichev Ilya\
 Galichin Andrey
 
-Requirements:\
-```rb
+Requirements:
+```console
   pip install galois
 ```
