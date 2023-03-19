@@ -10,3 +10,8 @@ Team Members:\
 Andreev Nikita\
 Begichev Ilya\
 Galichin Andrey
+
+Requirements:\
+```rb
+  pip install galois
+```
