@@ -13,8 +13,11 @@ Galichin Andrey
 
 Requirements:\
 
-As our main building block we use $\textbf{galois}$
+As our main building block we use $\textbf{galois}$ python package.\
+The galois library is a Python 3 package that extends NumPy arrays to operate over finite fields.\
+This is particular use in our case, so we use it to efficiently operate with polynomials.\
 
+Download:
 ```console
   pip install galois
 ```
