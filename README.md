@@ -11,7 +11,10 @@ Andreev Nikita\
 Begichev Ilya\
 Galichin Andrey
 
-Requirements:
+Requirements:\
+
+As our main building block we use $\textbf{galois}$
+
 ```console
   pip install galois
 ```
